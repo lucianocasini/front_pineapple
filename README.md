@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Pineapple
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pineapple es una tienda de celulares que permite ver y listar los celulares disponibles, buscar productos, dejar reviews, agregar al carrito y realizar el checkout. También cuenta con panel de administrador donde se puede administrar productos (añadir, editar y eliminar), administrar usuarios y ordenes de compra.
 
-## Available Scripts
+El sitio cuenta con registro y login de usuarios con multiples privilegios, tales como: Usuario, Administrador, Super administrador.
 
-In the project directory, you can run:
+Fue desarrollado con las siguientes tecnologías:
 
-### `npm start`
+- React
+- Redux
+- NodeJS
+- ExpressJS
+- PostgreSQL
+- Sequelize
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Equipo:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Patricio Imbrogno
+- Cuauhtli Daali Herrera
+- Juan Cruz Montanelli
+- Luciano Casini
+- Juan Manuel Arias
+- Eliana Ayarachi
 
-### `npm test`
+Tiempo de desarrollo: 2 semanas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Repositorios
 
-### `npm run build`
+<a href="https://github.com/lucianocasini/front_pineapple">Repo Frontend</a> <br />
+<a href="https://github.com/lucianocasini/back_pineapple">Repo Backend</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Capturas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Página principal
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](https://snipboard.io/2M37FY.jpg)
 
-### `npm run eject`
+### Vista de producto
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![](https://snipboard.io/mcyth7.jpg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Registro de usuarios
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![](https://snipboard.io/QFxirW.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Inicio de sesión
 
-## Learn More
+![](https://snipboard.io/1GwTfp.jpg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Ajustes de usuario
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![](https://snipboard.io/Vb1H6f.jpg)
 
-### Code Splitting
+### Vista de carrito
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![](https://snipboard.io/TL3rgK.jpg)
 
-### Analyzing the Bundle Size
+### Administrar usuarios (Admin)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![](https://snipboard.io/O0FoIa.jpg)
 
-### Making a Progressive Web App
+### Historial de compras (Admin)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![](https://snipboard.io/2dmwOU.jpg)
 
-### Advanced Configuration
+### Administrar productos (Admin)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://snipboard.io/dZO9m5.jpg)
